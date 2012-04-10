@@ -47,3 +47,4 @@ alias git="git-achievements"
 You can get your first achievement by running
 
     git achievements --help
+
